@@ -2,7 +2,7 @@
 
 #add implementation
 def add(x,y):
-    pass
+    return x+y # bug123
 
 #subtract implementation
 def subtract(x,y):
