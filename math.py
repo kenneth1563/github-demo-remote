@@ -6,7 +6,7 @@ def add(x,y):
 
 #subtract implementation
 def subtract(x,y):
-    pass
+    rteurn x-y  # bug456
 
 #multiply implementation
 def multiply(x,y):
